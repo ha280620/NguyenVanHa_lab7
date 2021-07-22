@@ -9,7 +9,7 @@ using System.Web.Http;
 namespace Nguyenvanha_lab7.Controllers
 {
     public class SachController : ApiController
-    {
+    {// nguyen vanha
         Sach[] sachs = new Sach[]
         {
         new Sach { Id = 1, Title = "Tôi thấy hoa vàng trên cỏ xanh", AuthorName =  "Nguyễn Văn Hà", Price = 1, Content="Truyện kể về Tuổi thơ..." },

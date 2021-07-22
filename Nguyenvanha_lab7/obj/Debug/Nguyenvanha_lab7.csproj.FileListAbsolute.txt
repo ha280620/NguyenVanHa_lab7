@@ -64,3 +64,4 @@ E:\web_th\Nguyenvanha_lab7\Nguyenvanha_lab7\obj\Debug\Nguyenvanha_lab7.csproj.Co
 E:\web_th\Nguyenvanha_lab7\Nguyenvanha_lab7\obj\Debug\Nguyenvanha_lab7.csproj.CopyComplete
 E:\web_th\Nguyenvanha_lab7\Nguyenvanha_lab7\obj\Debug\Nguyenvanha_lab7.dll
 E:\web_th\Nguyenvanha_lab7\Nguyenvanha_lab7\obj\Debug\Nguyenvanha_lab7.pdb
+E:\web_th\Nguyenvanha_lab7\Nguyenvanha_lab7\obj\Debug\Nguyenvanha_lab7.csproj.AssemblyReference.cache
